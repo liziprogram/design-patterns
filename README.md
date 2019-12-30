@@ -1,2 +1,2 @@
-# ChainOfResponsibility
-责任链模式
+# design-patterns
+设计demo
