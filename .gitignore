@@ -1,8 +1,22 @@
 # Compiled class file
 *.class
+.idea
+*.iml
+.project
+.classpath
 
 # Log file
+logs/
 *.log
+
+# mac os
+.DS_Store
+
+#Application Runtime
+target/
+
+#other
+*.versionBackup
 
 # BlueJ files
 *.ctxt
