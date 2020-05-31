@@ -1,2 +1,2 @@
 # design-patterns
-设计demo
+常用的设计模式
